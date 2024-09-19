@@ -40,6 +40,6 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/overwatch-2.svg">
     <img align="center" alt="CSS" height="60" width="40" src="https://todopoleras.cl/wp-content/uploads/2022/06/WhatsApp_Image_2022-06-22_at_7.15.59_PM-removebg-preview.png">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/minecraft.svg">
-    <img align="center" alt="C" height="30" width="30" src="https://www.svgrepo.com/show/83315/strawberry.svg">
+    <img align="center" alt="C" height="30" width="30" src="https://cdn2.steamgriddb.com/icon/2119b8d43eafcf353e07d7cb5554170b/32/256x256.png">
   </div>
   
