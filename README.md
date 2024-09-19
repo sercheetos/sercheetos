@@ -18,7 +18,7 @@
   <summary>🏳️‍🌈 More about me</summary>
 
   - 💬 I am 17 years old, currently living in Brazil. 
-  - ⚡ I enjoy Olivia Rodrigo! <3. \o/
+  - 🪻 I enjoy Olivia Rodrigo! <3. \o/
 </details>
 
 <!-- Links -->
