@@ -29,16 +29,16 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://64.media.tumblr.com/97e36dbea6564e6478416fb89c76747d/baaeffc2a2be25c1-23/s640x960/ece97799e464a1ff5bafd66d7dc7ee488d0f7b8a.gif" alt="Imagem">
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ1NDljMmJyNWp5eHhtc2VsNjR0ZHBndWRyOGY0cTR6YmNsbzZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzpSyap0nBLbSNog6n/giphy.webp" alt="Imagem">
 </p>
 
 ## 🧃 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>I'm good on</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png">
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/overwatch-2.svg">
+    <img align="center" alt="CSS" height="60" width="40" src="https://todopoleras.cl/wp-content/uploads/2022/06/WhatsApp_Image_2022-06-22_at_7.15.59_PM-removebg-preview.png">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
