@@ -10,7 +10,7 @@
 
   - 🐰 I’m currently studying Computer Science at INOTECH!
 
-  - 🔭 I am looking for my first job opportunity. See yaaa!
+  - 🔭 I am looking for opportunity for improvement. See yaaa!
 </p>
 
 <!-- Dropdown -->
